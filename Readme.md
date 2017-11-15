@@ -1,7 +1,7 @@
 # Личный проект «Кексобукинг» [![Build status][travis-image]][travis-url]
 
 * Студент: [Galina Chebotareva](https://up.htmlacademy.ru/javascript/11/user/153593).
-* Наставник: `Неизвестно`.
+* Наставник: [Иван Васильев].
 
 ---
 
